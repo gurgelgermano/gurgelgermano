@@ -1,11 +1,10 @@
-### Hi there 👋, eu sou Germano
+### Opa, blz? 👋, eu sou Germano
 #### Criar é o que me move!
 Diversos projetos feitos por diversão e aprendizado, alguns para ajudar e outros para ensinar! sejam bem vindos.
 
 Skills: PYTHON / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-
+- 🔭 Estou trabalhando nessa página!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gurgelgermano)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/germanogurgel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mercuriogurgel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](club.dev)  
 
